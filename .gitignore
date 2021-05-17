@@ -48,3 +48,7 @@ coverage.xml
 
 # Build products
 obj/
+
+# Generated things and solver runs
+generated/
+*.log
