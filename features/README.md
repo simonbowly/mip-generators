@@ -4,7 +4,7 @@
 
 - BLAS/LAPACK
 - CoinOR development libraries
-- igraph C library
+- igraph C library (0.9.10 or earlier)
 
 Tested and working on Ubuntu 22.04 with the above libraries installed.
 
